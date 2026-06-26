@@ -90,7 +90,7 @@ Custom Fine-Tuned Vision-Language Models
 Project Team
 Vishal M
 Janani KS
-Mohamed Anas
+Mohamed Anas J
 Maryann Joseph Bincy
 
 Project Name: ORBIS
